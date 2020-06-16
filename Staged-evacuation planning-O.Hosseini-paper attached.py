@@ -2,9 +2,8 @@
 # Python code developed by Omid Hosseini*, Mojtaba Maghrebi, Mahmood F. Maghrebi in the paper:
 # Article : Automatically Determining Staged-Evacuation Plan to Minimize Total Evacuation Time, Congestion Severity and Fire Threats
 # (0098)9150098089 - (0098)5138805101 - omid.s.hosseini@gmail.com - Civil engeneering dep, Ferdowsi university of Mashhad, Iran
-# Published in the "  journal"
+# Published in ...
 # DOI:
-# Github repositionary:
 # Please cite us if using this code.
 # Note: The results that presented in the paper might have some differences while running the code below, because of testing variouse evacuation scenarios and various facility plan.
 
