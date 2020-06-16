@@ -1,2 +1,2 @@
 # Staged-evacuation-planning
-Automatic framework of optimized emergency phased-evacuation planning (Python)
+Automatic simulation-optimization framework for emergency phased-evacuation planning (Python)
